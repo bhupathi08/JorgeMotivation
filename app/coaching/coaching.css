@@ -25,6 +25,6 @@ color: black;
 .blog-container{
     position: relative;
     padding: 50px;  
-
+    width: 100%; 
 }
 
