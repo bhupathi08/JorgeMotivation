@@ -1,0 +1,30 @@
+
+
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.sub-blog-preview-container{
+    position: relative;
+    height: 270px;
+    border-style: solid;
+    border-width: 2px;
+    margin-bottom: 60px;
+}
+
+.sub-blog-preview-container-picture{
+
+}
+
+.sub-blog-preview-container-content{
+background: orange;
+color: black;
+}
+
+.blog-container{
+    position: relative;
+    padding: 50px;  
+    width: 100%; 
+}
+
