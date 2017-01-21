@@ -285,6 +285,7 @@ background-size:cover;
 -ms-background-size: cover;
 -moz-background-size: cover;
 min-height: 600px;
+margin-top: -40px;
 }
 .banner-1{
 background: url(../images/banner-1.jpg) no-repeat 0px 0px;
@@ -2462,3 +2463,4 @@ label.icon-search span {
     color: black;
     font-weight: bold;
 }
+
